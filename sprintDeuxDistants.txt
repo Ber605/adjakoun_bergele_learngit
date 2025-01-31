@@ -1,5 +1,10 @@
 En tant que directeur d'études, je veux pouvoir créer, modifier et supprimer des classes( nom, niveau, spécialité )
 Je veux pouvoir inscrire des étudiants à des classes
 Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonction des cours et des enseignants disponibles
+<<<<<<< HEAD
 En tant que directeur d'études, je veux pouvoir exporter les emplois du temps au format PDF ou Excel.
-
+Sprinte 3: Amélioration et personnalisation
+=======
+En tant que directeur d'études, je veux pouvoir exporter les emplois du temps au format PDF ou Excel
+>>>>>>> df182bbfb66b65ba35a53d5d214b5920d55c0128
+En tant que directeur d'études, je veux pouvoir personnaliser l'affichage de l'emploi du temps (couleurs, format).
